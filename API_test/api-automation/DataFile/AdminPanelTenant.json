@@ -1,0 +1,63 @@
+{
+  "ownerName": "mohsen",
+  "brandName": "mohsenbrand",
+  "description": "test",
+  "creditProjectName": "keepa",
+  "internalProjectManagerId": null,
+  "identityType": 1,
+  "individual": {
+    "firstName": "مهدی",
+    "lastName": "شجاعی",
+    "nationalId": "3934466842",
+    "birthDate": "2000-01-12T08:52:45.305Z",
+    "mainMobileNumber": "09184417118",
+    "fullAddress": "شهر شیراز، خیابان امام خمینی، برج میلاد، پلاک 162، طبقه 5",
+    "postalCode": "1641716655"
+  },
+  "legal": {
+    "name": "string",
+    "nationalId": "string",
+    "establishmentDate": "2025-01-12T08:52:45.305Z",
+    "registrationNumber": "string",
+    "legalTypeId": 0,
+    "fullAddress": "string",
+    "postalCode": "string"
+  },
+  "ownerConnectors": [
+    {
+      "positionId": 19,
+      "firstName": "mns",
+      "lastName": "شجاعی",
+      "mobiles": [
+        "09350885388"
+      ],
+      "phones": [
+        "02133348903"
+      ],
+      "emails": [
+        "Maximilian.Ritchie@hotmail.com"
+      ],
+      "description": "test"
+    }
+  ],
+  "ownerAgents": [
+    {
+      "positionId": 1,
+      "firstName": "mn",
+      "lastName": "mn",
+      "nationalId": "3934466842",
+      "mobiles": [
+        "09333974776"
+      ],
+      "phones": [
+        "08133348903"
+      ],
+      "emails": [
+        "Marilyne.Prosacco54@hotmail.com"
+      ]
+    }
+  ],
+  "roleIds": [
+    1
+  ]
+}

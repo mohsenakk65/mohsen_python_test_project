@@ -37,6 +37,13 @@ class BasePage:
         yield
         self._wait.until(expected_conditions.staleness_of(old_page))
 
+    def dropDown_select(self, webelement):
+        dropDown = self._wait.until(expected_conditions.element_to_be_clickable(webelement))
+        dropDown.click()
+        dropDown.send_keys("\n")
+        self._highlight_element(dropDown, "green")
+
+
     def _highlight_element(self, webelement, color):
         original_style = webelement.get_attribute("style")
         new_style = "background-color:yellow;border: 1px solid " + color + original_style

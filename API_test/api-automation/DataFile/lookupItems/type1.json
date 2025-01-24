@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "ضامن (Guarantor)",
+        "alias": null
+    },
+    {
+        "id": 2,
+        "name": "تسهیل کننده (Facilitator)",
+        "alias": null
+    },
+    {
+        "id": 3,
+        "name": "تامین کننده مالی (Financier)",
+        "alias": null
+    },
+    {
+        "id": 4,
+        "name": "کارپرداز (Supplier)",
+        "alias": null
+    }
+]

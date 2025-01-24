@@ -17,4 +17,10 @@ class Testsearch(BaseTest):
         searchpage.click_search_bar()
         searchpage.wait_until_page_loaded()
         searchpage.most_visit_for_search()
+        searchpage.wait_until_page_loaded()
+        searchpage.dropDown_select("samsung a12")
+        searchpage.wait_until_page_loaded()
+        searchpage.dropdown_select_item()
+
+
 

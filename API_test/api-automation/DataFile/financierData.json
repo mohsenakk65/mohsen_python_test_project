@@ -1,0 +1,60 @@
+{
+  "name": "تست",
+  "tenantId": 11,
+  "personType": 1,
+  "individual": {
+    "firstName": "یوزر",
+    "lastName": "تستی",
+    "nationalId": "3750317925",
+    "birthDate": "2024-12-18T01:57:22.400Z",
+    "mobile": "09364512201"
+  },
+  "legal": {
+    "legalTypeId": 6,
+    "name": "حقوقی",
+    "nationalId": "80011110011",
+    "establishmentDate": "2023-12-18T01:57:22.400Z",
+    "registrationNumber": "10"
+  },
+  "address": "",
+  "postalCode": "1416753493",
+  "description": "",
+  "financierAgents": [
+    {
+      "positionName": "صندوقدار",
+      "firstName": "الف",
+      "lastName": "ب",
+      "nationalId": "3197879759",
+      "mobile": "09121152460",
+      "email": "test@gmail.com",
+      "phone": "09120001456"
+    },
+        {
+      "positionName": "صندوقدار",
+      "firstName": "الف",
+      "lastName": "ب",
+      "nationalId": "8632110004",
+      "mobile": "09121152460",
+      "email": "test@gmail.com",
+      "phone": "09120001456"
+    }
+  ],
+  "financierConnectors": [
+     {
+      "firstName": "ایمان",
+      "lastName": "شیخ",
+      "nationalId": "3197879759",
+      "mobile": "09150011101",
+      "email": "i.sheikh@gmail.com",
+      "phone": "09129998818"
+    },
+     {
+      "firstName": "ایمان",
+      "lastName": "شیخ",
+      "nationalId": "0622805347",
+      "mobile": "09140011101",
+      "email": "i.sheikh@gmail.com",
+      "phone": "09129998818"
+    }
+  ]
+}

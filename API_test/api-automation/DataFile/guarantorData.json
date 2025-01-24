@@ -1,0 +1,43 @@
+{
+  "name": "رضا اکبری",
+  "tenantId":"38401",
+  "personType": 2,
+  "individual": {
+    "firstName": "تست ۱",
+    "lastName": "شجاعی",
+    "nationalId": "1573937721",
+    "birthDate": "2024-12-18T02:00:56.928Z",
+    "mobile": "09127720150"
+  },
+  "legal": {
+    "legalTypeId": 1,
+    "name": "تست ۲",
+    "nationalId": "12345678901",
+    "establishmentDate": "2024-12-18T02:00:56.928Z",
+    "registrationNumber": "10"
+  },
+  "address": "شهر کرج، خیابان انقلاب، برج میلاد، پلاک 183، طبقه 10",
+  "postalCode": "5961994174",
+  "description": "تست",
+  "guarantorAgents": [
+    {
+      "positionName": "تست",
+      "firstName": "آزمون",
+      "lastName": "شجاعی",
+      "nationalId": "4588129074",
+      "mobile": "09127720150",
+      "email": "test@keepa.ir",
+      "phone": "02177192919"
+    }
+  ],
+  "guarantorConnectors": [
+    {
+      "firstName": "تست ۳",
+      "lastName": "شجاعی",
+      "nationalId": "3439323943",
+      "mobile": "09127720150",
+      "email": "test@gmail.com",
+      "phone": "09127720150"
+    }
+  ]
+}
