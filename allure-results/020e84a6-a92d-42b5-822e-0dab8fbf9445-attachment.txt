@@ -1,0 +1,2 @@
+[WDM] - Current google-chrome version is 131.0.6778
+[WDM] - Get LATEST driver version for 131.0.6778

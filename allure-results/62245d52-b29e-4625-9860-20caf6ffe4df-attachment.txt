@@ -1,0 +1,4 @@
+[32mINFO    [0m WDM:logger.py:24 There is no [macos] geckodriver for browser  in cache
+[32mINFO    [0m WDM:logger.py:14 Getting latest mozilla release info for v0.35.0
+[32mINFO    [0m WDM:logger.py:14 Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-macos-aarch64.tar.gz
+[32mINFO    [0m WDM:logger.py:14 Driver has been saved in cache [/Users/mohsenakbari/.wdm/drivers/geckodriver/macos/v0.35.0]

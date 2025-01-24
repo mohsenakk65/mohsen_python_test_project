@@ -1,0 +1,4 @@
+[WDM] - There is no [macos] geckodriver for browser  in cache
+[WDM] - Getting latest mozilla release info for v0.35.0
+[WDM] - Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-macos-aarch64.tar.gz
+[WDM] - Driver has been saved in cache [/Users/mohsenakbari/.wdm/drivers/geckodriver/macos/v0.35.0]

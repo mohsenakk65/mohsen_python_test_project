@@ -1,0 +1,2 @@
+[32mINFO    [0m WDM:logger.py:24 Current google-chrome version is 131.0.6778
+[32mINFO    [0m WDM:logger.py:14 Get LATEST driver version for 131.0.6778

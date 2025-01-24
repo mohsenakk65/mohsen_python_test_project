@@ -1,0 +1,343 @@
+1737707220764	geckodriver	INFO	Listening on 127.0.0.1:54528
+1737707585339	geckodriver	INFO	Listening on 127.0.0.1:56567
+1737707586245	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilez3Z1mU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737707586604	Marionette	INFO	Marionette enabled
+1737707586929	Marionette	INFO	Listening on port 56582
+1737707587055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737707707637	geckodriver	INFO	Listening on 127.0.0.1:57355
+1737707708080	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofile80t4kn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737707709034	Marionette	INFO	Marionette enabled
+1737707709445	Marionette	INFO	Listening on port 57374
+1737707709681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3883: TypeError: winData is undefined
+JavaScript warning: https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js, line 6: Script terminated by timeout at:
+u@https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js:6:188923
+
+1737707812655	geckodriver	INFO	Listening on 127.0.0.1:58008
+1737707813665	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileOCqwyP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737707814107	Marionette	INFO	Marionette enabled
+1737707814481	Marionette	INFO	Listening on port 58027
+1737707814642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3883: TypeError: winData is undefined
+JavaScript warning: https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js, line 6: Script terminated by timeout at:
+u@https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js:6:188815
+
+1737708132358	geckodriver	INFO	Listening on 127.0.0.1:59941
+1737708133371	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilesg3My4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737708133807	Marionette	INFO	Marionette enabled
+1737708134081	Marionette	INFO	Listening on port 59958
+1737708134241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737708147353	Marionette	INFO	Stopped listening on port 59958
+1737708202714	geckodriver	INFO	Listening on 127.0.0.1:60408
+1737708203724	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileU0Ob1F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737708204334	Marionette	INFO	Marionette enabled
+1737708204679	Marionette	INFO	Listening on port 60423
+1737708204750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737708221127	Marionette	INFO	Stopped listening on port 60423
+1737708451409	geckodriver	INFO	Listening on 127.0.0.1:61897
+1737708452419	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileyzyN7X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737708452879	Marionette	INFO	Marionette enabled
+1737708453255	Marionette	INFO	Listening on port 61913
+1737708453456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737708464293	Marionette	INFO	Stopped listening on port 61913
+JavaScript error: chrome://mozapps/content/extensions/aboutaddons.js, line 483: TypeError: URL constructor: http://%(server)s/extensions-dummy/repositoryBrowseURL is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1737708695578	geckodriver	INFO	Listening on 127.0.0.1:63350
+1737708696576	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileqiA64W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737708697164	Marionette	INFO	Marionette enabled
+1737708697488	Marionette	INFO	Listening on port 63368
+1737708697616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737708708797	Marionette	INFO	Stopped listening on port 63368
+1737709102593	geckodriver	INFO	Listening on 127.0.0.1:49455
+1737709103602	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilexxNfV9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737709104383	Marionette	INFO	Marionette enabled
+1737709105001	Marionette	INFO	Listening on port 49475
+1737709105154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737709117190	Marionette	INFO	Stopped listening on port 49475
+JavaScript warning: https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js, line 6: Script terminated by timeout at:
+u@https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js:6:188815
+
+1737709271944	geckodriver	INFO	Listening on 127.0.0.1:50496
+1737709272953	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileFa5NER"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737709273685	Marionette	INFO	Marionette enabled
+1737709274079	Marionette	INFO	Listening on port 50513
+1737709274201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737709286242	Marionette	INFO	Stopped listening on port 50513
+1737712776777	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+1737712779738	geckodriver	INFO	Listening on 127.0.0.1:54092
+1737712780739	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileeahpl2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737712781980	Marionette	INFO	Marionette enabled
+1737712782811	Marionette	INFO	Listening on port 54110
+1737712782953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737712790117	Marionette	INFO	Stopped listening on port 54110
+1737721346629	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+1737721360350	geckodriver	INFO	Listening on 127.0.0.1:56119
+1737721361326	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileU8wNMC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737721362528	Marionette	INFO	Marionette enabled
+1737721363033	Marionette	INFO	Listening on port 56134
+1737721363270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737721375905	Marionette	INFO	Stopped listening on port 56134
+1737721460561	geckodriver	INFO	Listening on 127.0.0.1:56794
+1737721461568	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileeUkx9N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737721462192	Marionette	INFO	Marionette enabled
+1737721462640	Marionette	INFO	Listening on port 56809
+1737721462721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737721475358	Marionette	INFO	Stopped listening on port 56809
+1737721937200	geckodriver	INFO	Listening on 127.0.0.1:59581
+1737721938203	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileftzycU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737721938976	Marionette	INFO	Marionette enabled
+1737721939454	Marionette	INFO	Listening on port 59598
+1737721939625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737721951372	Marionette	INFO	Stopped listening on port 59598
+JavaScript warning: https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js, line 6: Script terminated by timeout at:
+u@https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js:6:188815
+
+1737722084235	geckodriver	INFO	Listening on 127.0.0.1:60567
+1737722085242	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilefDQu2p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737722085687	Marionette	INFO	Marionette enabled
+1737722086034	Marionette	INFO	Listening on port 60582
+1737722086113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737722097483	Marionette	INFO	Stopped listening on port 60582
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1737726726150	geckodriver	INFO	Listening on 127.0.0.1:50855
+1737726727159	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileqdSvcY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737726728103	Marionette	INFO	Marionette enabled
+1737726728573	Marionette	INFO	Listening on port 50872
+1737726728657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737726790537	Marionette	INFO	Stopped listening on port 50872
+1737726865132	geckodriver	INFO	Listening on 127.0.0.1:51721
+1737726866146	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilexZjVps"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737726866876	Marionette	INFO	Marionette enabled
+1737726867359	Marionette	INFO	Listening on port 51738
+1737726867659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737726878469	Marionette	INFO	Stopped listening on port 51738
+1737727157127	geckodriver	INFO	Listening on 127.0.0.1:53487
+1737727158135	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileqqheE7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737727159094	Marionette	INFO	Marionette enabled
+1737727159560	Marionette	INFO	Listening on port 53505
+1737727159780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737727220477	Marionette	INFO	Stopped listening on port 53505
+1737727500439	Marionette	INFO	Stopped listening on port 56582
+1737727502800	Marionette	INFO	Stopped listening on port 57374
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: ({})
+console.error: ({})
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 122: Error: sendRemoveListener on closed conduit ruto@testleaf.com.274877907385
+1737727505214	Marionette	INFO	Stopped listening on port 58027
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: ({})
+console.error: ({})
+1737728079861	geckodriver	INFO	Listening on 127.0.0.1:58601
+1737728080865	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileHHAUwi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737728081776	Marionette	INFO	Marionette enabled
+1737728082239	Marionette	INFO	Listening on port 58620
+1737728082326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737728095772	Marionette	INFO	Stopped listening on port 58620
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1737728256370	geckodriver	INFO	Listening on 127.0.0.1:59764
+1737728257381	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofile50g0GT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737728258188	Marionette	INFO	Marionette enabled
+1737728258564	Marionette	INFO	Listening on port 59781
+1737728258655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737728360723	Marionette	INFO	Stopped listening on port 59781
+1737728518940	geckodriver	INFO	Listening on 127.0.0.1:61234
+1737728519950	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileqlg2TN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737728520733	Marionette	INFO	Marionette enabled
+1737728521058	Marionette	INFO	Listening on port 61253
+1737728521153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737728544319	Marionette	INFO	Stopped listening on port 61253
+1737728584855	geckodriver	INFO	Listening on 127.0.0.1:61687
+1737728585863	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileqCiUFs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737728586229	Marionette	INFO	Marionette enabled
+1737728586428	Marionette	INFO	Listening on port 61710
+1737728586522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737728613599	Marionette	INFO	Stopped listening on port 61710
+1737728903554	geckodriver	INFO	Listening on 127.0.0.1:63759
+1737728904562	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileh6Hs8s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737728905121	Marionette	INFO	Marionette enabled
+1737728905429	Marionette	INFO	Listening on port 63777
+1737728905535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737728918824	Marionette	INFO	Stopped listening on port 63777
+1737729049519	geckodriver	INFO	Listening on 127.0.0.1:64724
+1737729050530	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileqeuz4c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737729051040	Marionette	INFO	Marionette enabled
+1737729051388	Marionette	INFO	Listening on port 64739
+1737729051492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737729064033	Marionette	INFO	Stopped listening on port 64739
+1737729348281	geckodriver	INFO	Listening on 127.0.0.1:50056
+1737729349292	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileU5GBU6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737729350183	Marionette	INFO	Marionette enabled
+1737729350623	Marionette	INFO	Listening on port 50073
+1737729350816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737729362768	Marionette	INFO	Stopped listening on port 50073
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1737729624163	geckodriver	INFO	Listening on 127.0.0.1:51790
+1737729625174	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilevPeiOX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737729625927	Marionette	INFO	Marionette enabled
+1737729626719	Marionette	INFO	Listening on port 51807
+1737729626981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737729638965	Marionette	INFO	Stopped listening on port 51807
+1737729754401	geckodriver	INFO	Listening on 127.0.0.1:52634
+1737729755411	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofiletfC60V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737729755822	Marionette	INFO	Marionette enabled
+1737729756134	Marionette	INFO	Listening on port 52651
+1737729756254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737729819239	Marionette	INFO	Stopped listening on port 52651
+1737729873798	geckodriver	INFO	Listening on 127.0.0.1:53376
+1737729874799	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofile9pzLjC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737729875373	Marionette	INFO	Marionette enabled
+1737729875656	Marionette	INFO	Listening on port 53391
+1737729875745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737729887822	Marionette	INFO	Stopped listening on port 53391
+1737730397766	geckodriver	INFO	Listening on 127.0.0.1:54754
+1737730398773	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileSgnN2L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737730399745	Marionette	INFO	Marionette enabled
+1737730400136	Marionette	INFO	Listening on port 54770
+1737730400294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737730414381	Marionette	INFO	Stopped listening on port 54770
+1737730849042	geckodriver	INFO	Listening on 127.0.0.1:56844
+1737730850054	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileUBB2sV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737730850625	Marionette	INFO	Marionette enabled
+1737730850999	Marionette	INFO	Listening on port 56859
+1737730851159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737730863665	Marionette	INFO	Stopped listening on port 56859
+1737733716041	geckodriver	INFO	Listening on 127.0.0.1:51585
+1737733717051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilev1CUQi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737733718012	Marionette	INFO	Marionette enabled
+1737733719202	Marionette	INFO	Listening on port 51600
+1737733719526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737733737621	Marionette	INFO	Stopped listening on port 51600
+JavaScript warning: https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js, line 6: Script terminated by timeout at:
+u@https://www.digikala.com/_next/static/chunks/pages/_app-650c0a119303f5d2.js:6:188815
+
+1737733739539	geckodriver	INFO	Listening on 127.0.0.1:51838
+1737733740532	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilebJtEBn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737733741271	Marionette	INFO	Marionette enabled
+1737733741507	Marionette	INFO	Listening on port 51853
+1737733741586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737733786012	Marionette	INFO	Stopped listening on port 51853
+1737744403118	geckodriver	INFO	Listening on 127.0.0.1:54358
+1737744404138	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofileYAQBgG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737744404887	Marionette	INFO	Marionette enabled
+1737744405405	Marionette	INFO	Listening on port 54375
+1737744405603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737744429511	Marionette	INFO	Stopped listening on port 54375
+1737744430378	geckodriver	INFO	Listening on 127.0.0.1:54558
+1737744431383	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/z1/rv5dp3q16z93mybmc4tnvdkm0000gn/T/rust_mozprofilezTBBxN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1737744431843	Marionette	INFO	Marionette enabled
+1737744432051	Marionette	INFO	Listening on port 54573
+1737744432176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1737744447177	Marionette	INFO	Stopped listening on port 54573
