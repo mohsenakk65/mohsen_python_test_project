@@ -1,0 +1,19 @@
+{
+  "tenantId": 0,
+  "organizationId": 0,
+  "nationalId": "string",
+  "fatherName": "string",
+  "firstName": "string",
+  "lastName": "string",
+  "gender": 0,
+  "birthPlace": "string",
+  "cityId": 1,
+  "address": "string",
+  "postalCode": "string",
+  "email": "string",
+  "certificateNumber": "564865",
+  "birthDate": "2000-12-18T01:44:47.886Z",
+  "mobile": "09333974776",
+  "tel": "02177192918",
+  "description": "test"
+}

@@ -13,6 +13,7 @@ from pages.base_page import BasePage
 class search_Page(BasePage):
     search_icon = (By.XPATH, "//div[contains(@class,'lg:text-body-2 text-button-1')]")
     most_visit = (By.XPATH, "(//span[@data-cro-id='plp-sort'])[2]")
+    selected_item = (By.XPATH, "//div[@class='grow text-right']")
 
     def __init__(self, driver):
         super().__init__(driver)
@@ -26,3 +27,13 @@ class search_Page(BasePage):
     def most_visit_for_search(self):
         self.wait_until_page_loaded()
         self.click(self.most_visit)
+
+
+    @allure.step("select item category")
+    def dropdown_select_item(self):
+        self.wait_until_page_loaded()
+        self.dropDown_select(self.selected_item)
+
+
+
+

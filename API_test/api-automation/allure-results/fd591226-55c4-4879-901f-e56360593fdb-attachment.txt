@@ -1,0 +1,2 @@
+http://31.214.173.200:1000/bff/client-managements/admin-panel/lookup-items/4
+Response for type '4': [{"id":21,"name":"شخص صاحب امضاء","alias":null},{"id":22,"name":"وکیل","alias":null},{"id":23,"name":"نماینده حقوقی معرفی شده","alias":null}]

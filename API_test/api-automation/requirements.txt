@@ -1,0 +1,9 @@
+locust~=2.32.5
+pytest~=8.3.4
+requests~=2.32.3
+
+pip~=23.2.1
+attrs~=24.3.0
+setuptools~=68.0.0
+jsonschema~=4.19.0
+pyodbc~=5.2.0

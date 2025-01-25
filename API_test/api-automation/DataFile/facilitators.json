@@ -1,0 +1,43 @@
+{
+  "name": "تست",
+  "tenantId": 9,
+  "personType": 2,
+  "individual": {
+    "firstName": "مهدی",
+    "lastName": "پناهی",
+    "nationalId": "3931111458",
+    "birthDate": "1939-08-15T21:52:43.299Z",
+    "mobile": "09127720150"
+  },
+  "legal": {
+    "legalTypeId": 1,
+    "name": "محسن",
+    "nationalId": "3600946498",
+    "establishmentDate": "1990-12-18T01:54:02.909Z",
+    "registrationNumber": "98765432109"
+  },
+  "address": "{{randomStreetAddress}}",
+  "postalCode": "5961994174",
+  "description": "تست",
+  "facilitatorAgents": [
+    {
+      "positionName": "رابط",
+      "firstName": "مهدی",
+      "lastName": "پناهی",
+      "nationalId": "3934466842",
+      "mobile": "09127720150",
+      "email": "Johathan.Trantow@gmail.com",
+      "phone": "08133348903"
+    }
+  ],
+  "facilitatorConnectors": [
+    {
+      "firstName": "عماد",
+      "lastName": "پناهی",
+      "nationalId": "2907207504",
+      "mobile": "09127720150",
+      "email": "test@gmail.com",
+      "phone": "08133348902"
+    }
+  ]
+}

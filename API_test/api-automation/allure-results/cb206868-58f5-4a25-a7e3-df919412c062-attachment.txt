@@ -1,0 +1,2 @@
+http://31.214.173.200:1000/bff/client-managements/admin-panel/lookup-items/3
+Response for type '3': [{"id":15,"name":"فنی","alias":null},{"id":16,"name":"مالی","alias":null},{"id":17,"name":"حقوقی","alias":null},{"id":18,"name":"بیزینس","alias":null},{"id":19,"name":"مارکتینگ","alias":null},{"id":20,"name":"سایر","alias":"TenantOwnerConnectorPosition_Other"}]

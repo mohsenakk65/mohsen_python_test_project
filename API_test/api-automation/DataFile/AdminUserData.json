@@ -1,0 +1,14 @@
+{
+    "tenantId": 38304,
+    "firstName": "کاربر 1",
+    "lastName": "تنت 1",
+    "mobileNumber": "09333974549",
+    "email": "Margarette_Hahn@yahoo.com",
+    "userNameType": 1,
+    "userEntities": [
+        {
+            "entityId": 1,
+            "userEntityType": 10
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 5,
+        "name": "سهامی عام",
+        "alias": null
+    },
+    {
+        "id": 6,
+        "name": "سهامی خاص",
+        "alias": null
+    },
+    {
+        "id": 7,
+        "name": "تضامنی",
+        "alias": null
+    },
+    {
+        "id": 8,
+        "name": "شرکت دولتی",
+        "alias": null
+    },
+    {
+        "id": 9,
+        "name": "با مسئولیت محدود",
+        "alias": null
+    },
+    {
+        "id": 10,
+        "name": "تعاونی",
+        "alias": null
+    },
+    {
+        "id": 11,
+        "name": "سازمان های عمومی",
+        "alias": null
+    },
+    {
+        "id": 12,
+        "name": "سازمان دولتی",
+        "alias": null
+    },
+    {
+        "id": 13,
+        "name": "وزارتخانه",
+        "alias": null
+    },
+    {
+        "id": 14,
+        "name": "نهادهای عمومی",
+        "alias": null
+    }
+]
